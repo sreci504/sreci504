@@ -23,32 +23,6 @@ Copy code
 
 El objetivo de este repositorio es facilitar la colaboración entre los diferentes equipos y actores involucrados en los proyectos de desarrollo internacional. Queremos fomentar la transparencia, la eficiencia y el intercambio de conocimientos para lograr un impacto positivo en las comunidades a nivel global.
 
-## Estructura del Repositorio
-
-El repositorio está organizado de la siguiente manera:
-
-/
-|-- Proyectos/
-| |-- Proyecto1/
-| |-- Proyecto2/
-| |-- ...
-|
-|-- Documentación/
-| |-- Guías/
-| |-- Informes/
-| |-- Recursos/
-|
-|-- Reuniones/
-| |-- Actas/
-|
-|-- Contribuciones/
-| |-- Ideas/
-| |-- Pull Requests/
-|
-|-- Licencia
-|-- README.md
-
-
 
 - **Proyectos:** En esta carpeta encontrarás subcarpetas correspondientes a cada proyecto en el que estamos trabajando. Cada proyecto tiene su propio espacio para el código, la documentación y los recursos relacionados.
 
